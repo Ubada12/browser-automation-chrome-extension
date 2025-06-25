@@ -1,4 +1,8 @@
 # 🤖 DiscordOps Chrome Extension (CUSTOMIZABLE)
+![Chrome Extension](https://img.shields.io/badge/Type-Chrome%20Extension-blue)
+![Status](https://img.shields.io/badge/Status-Showcase--Only-orange)
+![License](https://img.shields.io/badge/License-Private-red)
+![Automation](https://img.shields.io/badge/Focus-Discord%20%26%20Twitter-lightgrey)
 
 A powerful and customizable **Chrome Extension** built for browser automation — featuring:
 
