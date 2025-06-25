@@ -82,7 +82,7 @@ Want to collaborate, request modifications, or build your own browser automation
 
 ## 🖼️ Screenshots
 
-> A quick glimpse into the automation in action.
+> A quick glimpse into the automation in action. The Automation Flow might be change person to person requirements so below is only for the admins
 
 ### 🔍 1. Discord Message Detection
 ![Discord Message](screenshots/monitoring_dc_msg.png)
