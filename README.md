@@ -85,13 +85,13 @@ Want to collaborate, request modifications, or build your own browser automation
 > A quick glimpse into the automation in action.
 
 ### 🔍 1. Discord Message Detection
-![Discord Message](screenshots/discord-message.png)
+![Discord Message](screenshots/monitoring_dc_msg.png)
 
 ### ⚙️ 2. Console Log Debugging
-![Console Log](screenshots/console-log.png)
+![Console Log](screenshots/console_log.png)
 
-### 🐦 3. Tweet Engagement Tab
-![Tweet Engagement](screenshots/tweet-engaged.png)
+### 🐦 3. Extension Popup UI
+![Tweet Engagement](screenshots/extension_ui.png)
 
 
 ---
