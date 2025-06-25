@@ -80,4 +80,20 @@ Want to collaborate, request modifications, or build your own browser automation
 
 ---
 
+## 🖼️ Screenshots
+
+> A quick glimpse into the automation in action.
+
+### 🔍 1. Discord Message Detection
+![Discord Message](screenshots/discord-message.png)
+
+### ⚙️ 2. Console Log Debugging
+![Console Log](screenshots/console-log.png)
+
+### 🐦 3. Tweet Engagement Tab
+![Tweet Engagement](screenshots/tweet-engaged.png)
+
+
+---
+
 Made with ❤️ for browser automation enthusiasts.
