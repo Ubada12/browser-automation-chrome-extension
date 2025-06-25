@@ -1,4 +1,4 @@
-# 🤖 DiscordOps Chrome Extension
+# 🤖 DiscordOps Chrome Extension (CUSTOMIZABLE)
 
 A powerful and customizable **Chrome Extension** built for browser automation — featuring:
 
