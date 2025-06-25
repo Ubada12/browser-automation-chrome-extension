@@ -26,7 +26,7 @@ A powerful and customizable **Chrome Extension** built for browser automation �
 
 * 🧩 Chrome Extensions (Manifest V3)
 * ⚙️ Service Workers & Content Scripts
-* 🌐 Web Scraping & DOM Interactions
+* 🌐 Web Scraping, For UI React & DOM Interactions
 * 🔐 Secured with Device ID & Access Tokens
 * 📝 Deep logging for each step (color-coded)
 
