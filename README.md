@@ -4,8 +4,8 @@ A powerful and customizable **Chrome Extension** built for browser automation �
 
 * 🔎 **Discord message monitoring**
 * 🐦 **Twitter tweet engagement**
-* 💬 Real-time message parsing and event-based actions
-* 🧠 Intelligent script injection and flow control
+* 💬 **Real-time message parsing and event-based actions**
+* 🧠 **Intelligent script injection and flow control**
 
 > ⚠️ **Note:** This extension is not intended for public use. It is tailored for internal admin-controlled automation flows and showcases advanced automation patterns. For demo purposes only.
 
